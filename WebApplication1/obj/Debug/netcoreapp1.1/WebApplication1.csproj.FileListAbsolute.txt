@@ -1,0 +1,9 @@
+D:\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+D:\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+D:\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+D:\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+D:\Project\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+D:\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+D:\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+D:\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
+D:\Project\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
